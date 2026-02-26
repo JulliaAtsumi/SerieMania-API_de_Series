@@ -1,4 +1,4 @@
-# 🎬 ShowStore
+# 🎬 SiteMania
 
 Projeto desenvolvido como teste técnico para vaga de estágio em Desenvolvimento Web Frontend.
 
