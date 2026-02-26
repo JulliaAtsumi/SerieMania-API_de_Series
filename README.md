@@ -1,4 +1,4 @@
-# 🎬 SiteMania
+# 🎬 SerieMania
 
 Projeto desenvolvido como teste técnico para vaga de estágio em Desenvolvimento Web Frontend.
 
