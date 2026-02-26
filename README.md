@@ -1,8 +1,6 @@
 # 🎬 SerieMania
 
-Projeto desenvolvido como teste técnico para vaga de estágio em Desenvolvimento Web Frontend.
-
-O objetivo foi criar uma aplicação web responsiva que consome uma API pública e permite ao usuário buscar, visualizar detalhes e favoritar itens.
+O objetivo foi criar uma aplicação web responsiva que consome uma API pública e permite ao usuário buscar, favoritar itens e visualiza-los.
 
 ---
 
@@ -36,7 +34,6 @@ https://api.tvmaze.com/shows/ID
 
 - 🔎 Busca de séries
 - 📦 Exibição em grid responsivo
-- 📄 Modal com detalhes (imagem, nome, gêneros, resumo e nota)
 - ❤️ Sistema de favoritos
 - 💾 Persistência de favoritos com LocalStorage
 - ⏳ Estado de loading
@@ -58,3 +55,34 @@ O layout foi desenvolvido utilizando CSS Grid e Media Queries.
 ---
 
 ## 🧠 Estrutura do Projeto
+
+/SerieMania-API_de_Series
+├── index.html
+├── style.css
+└── script.js
+
+- **index.html** → Estrutura da aplicação  
+- **style.css** → Estilização e responsividade  
+- **script.js** → Lógica da aplicação, consumo de API e manipulação do DOM  
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone o repositório:
+
+```bash
+git clone URL_DO_REPOSITORIO
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd nome-do-projeto
+
+3. Abra o arquivo index.html no navegador.
+
+Não é necessário instalar dependências ou rodar servidor.
+
+## 👩‍💻 Autora
+
+Desenvolvido por Jullia Akutagawa.
